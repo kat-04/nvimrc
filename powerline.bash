@@ -1,1 +1,1 @@
-eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/jandedobbeleer.omp.json)"
+eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/night-owl.omp.json)"

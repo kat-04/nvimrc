@@ -4,5 +4,6 @@
 					"command": "veridian",
 					"filetypes": ["verilog", "systemverilog"]
 			}
-	}
+	},
+    "http.proxyStrictSSL": false
 }
