@@ -108,8 +108,10 @@ set incsearch
 " show location, line col in file
 set ruler
 " no word wrap
-set nowrap
+set wrap
 " set the width of a hard tab character
+set linebreak
+" make it not wrap in the middle of a "word"
 set tabstop=4
 " set width of a level of indentation
 set shiftwidth=4
